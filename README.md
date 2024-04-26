@@ -1,5 +1,5 @@
+!![image](https://github.com/serevinaash/UTSPraktikumPBO/assets/101394654/46dc2d39-85b2-48ca-97bb-e9598bf93b70)
 1. Encapsulation
-   !![image](https://github.com/serevinaash/UTSPraktikumPBO/assets/101394654/46dc2d39-85b2-48ca-97bb-e9598bf93b70)
 Program Java ini mendemonstrasikan konsep enkapsulasi dengan tiga kelas: `Person`, `Employee`, dan `Main`.
 
 - **Person**: Kelas ini mewakili individu dengan data pribadi seperti nama dan usia. Variabel `name` dan `age` bersifat privat dan diakses melalui metode publik `getName()`, `setName()`, `getAge()`, dan `setAge()`. Konstruktor digunakan untuk menginisialisasi objek `Person`.
